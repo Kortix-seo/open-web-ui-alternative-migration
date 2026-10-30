@@ -1,6 +1,6 @@
-# Kortix: the open-source AI Operating System
+# Kortix: the open-source CompanyOS
 
-Kortix is the open-source AI Operating System: your agents, their skills, your company memory, and every connector live in one git repo you own, and each session runs on its own cloud computer. This repository is the migration guide for a team that runs Open WebUI, a self-hosted chat and retrieval interface over local or remote models, and now wants agents that finish work and act in real tools.
+Kortix is the open-source CompanyOS: your agents, their skills, your company memory, and every connector live in one git repo you own, and each session runs on its own cloud computer. This repository is the migration guide for a team that runs Open WebUI, a self-hosted chat and retrieval interface over local or remote models, and now wants agents that finish work and act in real tools.
 
 ## What this repository is
 
